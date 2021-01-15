@@ -1,0 +1,8 @@
+html,body {min-height: 100%!important;}
+.new-modal{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  background-color: white;
+  padding: 15px;
+}
