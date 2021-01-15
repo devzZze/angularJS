@@ -1,0 +1,44 @@
+{
+  "workers": [
+    {
+      "id": 8,
+      "surname": "Артемов",
+      "name": "Артем",
+      "lastname": "Иванов",
+      "phone": "229292",
+      "email": "pi@pi.ru",
+      "birthday": "2000-01-5",
+      "place": 3
+    },
+    {
+      "id": 9,
+      "surname": "Иванов",
+      "name": "Иван",
+      "lastname": "Иванович",
+      "phone": "123123",
+      "email": "123123@mail.ru",
+      "birthday": "2000-01-01",
+      "place": 0
+    },
+    {
+      "id": 10,
+      "surname": "Asd",
+      "name": "Asd",
+      "lastname": "Asdof",
+      "phone": "123",
+      "email": "123@mail.ru",
+      "birthday": "2005-11-11",
+      "place": 1
+    },
+    {
+      "id": 11,
+      "surname": "123",
+      "name": "123",
+      "lastname": "123",
+      "phone": "123",
+      "email": "123@mail.ru",
+      "birthday": "1995-11-11",
+      "place": 2
+    }
+  ]
+}

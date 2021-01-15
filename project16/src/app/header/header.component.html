@@ -1,0 +1,17 @@
+<nav class="navbar navbar-light navbar-expand-lg" style="background-color: #000000;">
+  <div class="container-fluid">
+    <a class="navbar-brand" [routerLink]="'/'" style="color: white;" >Angular 16</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+      aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup" style="margin-left: 30px;">
+      <div class="navbar-nav ">
+        <a class="nav-link" [routerLink]="''" style="color: white;" [routerLinkActive]="'active'"
+          [routerLinkActiveOptions]="{ exact: true }">Главная страница</a>
+        <a class="nav-link" [routerLink]="'/user'" style="color: white;"[routerLinkActive]="'active'"
+          [routerLinkActiveOptions]="{ exact: true }">Пользователи</a>
+      </div>
+    </div>
+  </div>
+</nav>
